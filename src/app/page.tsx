@@ -56,7 +56,7 @@ const Home: React.FC = () => {
               />
             </div>
             <div className="w-full sm:w-1/2 sm:pl-4 mt-4 sm:mt-0">
-              <Link href="/cc" passHref>
+              <Link href="https://delareina-cc2.vercel.app/" passHref>
                 <h2 className="text-2xl sm:text-3xl font-semibold text-pink-900 cursor-pointer font-mono">
                   De La Reina Store
                 </h2>
